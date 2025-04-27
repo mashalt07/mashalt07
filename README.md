@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-After taking a 2-year break for personal and professional growth, I’m now returning to the tech industry with a renewed focus and sharpened skills in **DevOps** and **Cloud Engineering**.
+After taking a 2-year break, I’m now returning to the tech industry with a renewed focus and sharpened skills in **DevOps** and **Cloud Engineering**.
 
 I’ve spent the past few months rebuilding and learning to stay hands on and up to date.
 
@@ -30,7 +30,7 @@ I’ve spent the past few months rebuilding and learning to stay hands on and up
 
 ---
 
-### 🔧 Projects
+### 🔧 Projects [TO DO]
 
 - ⚙️ [Cloud Infrastructure with Terraform on AWS](https://github.com/yourusername/terraform-aws-infra)  
 - 📦 [CI/CD Pipeline with GitHub Actions & Docker](https://github.com/yourusername/devops-pipeline)  
