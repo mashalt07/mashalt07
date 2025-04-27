@@ -1,44 +1,41 @@
-## Hi there 👋
-
-<!--
-**mashalt07/mashalt07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there 👋, Mohammad Altamash</h1>
+<h1 align="center">Hi there 👋, I'm Mohammad Altamash</h1>
 
 <p align="center">
-  🚀 DevOps & Cloud Engineer | ☁️ AWS | ☸️ Kubernetes | 🔐 Terraform | ⚙️ CI/CD | 🧩 Problem Solver
+  💼 DevOps & Cloud Engineer | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🔧 Terraform | 🔄 CI/CD
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👋 About Me
 
-- 🏢 I'm currently working as a **DevOps/Cloud Engineer**
-- 🌱 I’m learning advanced **Kubernetes Operators** and **Platform Engineering**
-- 🛠️ I'm skilled with:  
-  `AWS`, `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions`, `Jenkins`, `Linux`, `Python`
-- 🎯 Focused on: Automation, Scalability, Observability, and Infrastructure as Code
-- 📝 I regularly write about DevOps on [My Blog](https://yourblog.com)
+After taking a 2-year break for personal and professional growth, I’m now returning to the tech industry with a renewed focus and sharpened skills in **DevOps** and **Cloud Engineering**.
+
+I’ve spent the past few months rebuilding, learning, and contributing to open-source infrastructure projects to stay hands-on and up to date.
+
+- 📍 Based in [London], open to remote and hybrid roles
+- 🧠 Recently upskilled in: `AWS`, `Kubernetes`, `Terraform`, `GitHub Actions`
+- 🔄 Practicing Infrastructure as Code and CI/CD every day
+- 💬 Always excited to talk about cloud-native architectures, automation, and system reliability
 
 ---
 
-### 📦 Projects
+### 🛠️ Skills
 
-- 🔧 [Terraform AWS EKS Cluster](https://github.com/yourusername/terraform-aws-eks)  
-- ⚙️ [CI/CD Pipeline with GitHub Actions](https://github.com/yourusername/ci-cd-pipeline)  
-- 🗃 [Monitoring with Prometheus + Grafana](https://github.com/yourusername/monitoring-stack)  
+- **Cloud Platforms:** AWS
+- **Containers:** Docker, Kubernetes, Helm
+- **IaC:** Terraform, 
+- **CI/CD:** GitHub Actions, Jenkins
+- **Monitoring & Logs:** Prometheus, Grafana, ELK Stack
+- **Scripting:** Bash, Python
+
+---
+
+### 🔧 Projects
+
+- ⚙️ [Cloud Infrastructure with Terraform on AWS](https://github.com/yourusername/terraform-aws-infra)  
+- 📦 [CI/CD Pipeline with GitHub Actions & Docker](https://github.com/yourusername/devops-pipeline)  
+- 🔍 [Monitoring Stack (Prometheus + Grafana)](https://github.com/yourusername/monitoring-stack)  
+- 🧪 [K8s Homelab Setup for Learning](https://github.com/yourusername/k8s-homelab)
 
 ---
 
@@ -46,6 +43,22 @@ Here are some ideas to get you started:
 
 - ✅ AWS Certified Solutions Architect – Associate
 - ✅ Certified Kubernetes Administrator (CKA)
+---
+
+### 🔎 Actively Looking For
+
+I’m seeking **DevOps/Cloud Engineering roles** where I can:
+- Work with modern cloud-native stacks
+- Build and maintain automation pipelines
+- Be part of a team that values learning and collaboration
+
+💡 Open to junior/mid-level or re-entry roles, or contract work.
 
 ---
+
+<details>
+  <summary>📈 GitHub Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=mashalt07&show_icons=true&theme=github_dark" alt="GitHub stats" />
+</details>
+
 
