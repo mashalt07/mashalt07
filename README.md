@@ -10,9 +10,9 @@
 
 After taking a 2-year break for personal and professional growth, I’m now returning to the tech industry with a renewed focus and sharpened skills in **DevOps** and **Cloud Engineering**.
 
-I’ve spent the past few months rebuilding, learning, and contributing to open-source infrastructure projects to stay hands-on and up to date.
+I’ve spent the past few months rebuilding and learning to stay hands on and up to date.
 
-- 📍 Based in [London], open to remote and hybrid roles
+- 📍 Based in London, open to remote and hybrid roles
 - 🧠 Recently upskilled in: `AWS`, `Kubernetes`, `Terraform`, `GitHub Actions`
 - 🔄 Practicing Infrastructure as Code and CI/CD every day
 - 💬 Always excited to talk about cloud-native architectures, automation, and system reliability
