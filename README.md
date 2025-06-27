@@ -8,12 +8,8 @@
 
 ### 👋 About Me
 
-After taking a 2-year break, I’m now returning to the tech industry with a renewed focus and sharpened skills in **DevOps** and **Cloud Engineering**.
-
-I’ve spent the past few months rebuilding and learning to stay hands on and up to date.
-
 - 📍 Based in London, open to remote and hybrid roles
-- 🧠 Recently upskilled in: `AWS`, `Kubernetes`, `Terraform`, `GitHub Actions`
+- 🧠 Skilled in: `AWS`, `Kubernetes`, `Terraform`, `GitHub Actions`
 - 🔄 Practicing Infrastructure as Code and CI/CD every day
 - 💬 Always excited to talk about cloud-native architectures, automation, and system reliability
 
@@ -52,7 +48,7 @@ I’m seeking **DevOps/Cloud Engineering roles** where I can:
 - Build and maintain automation pipelines
 - Be part of a team that values learning and collaboration
 
-💡 Open to junior/mid-level or re-entry roles, or contract work.
+💡 Open to mid-level or re-entry roles, or contract work.
 
 ---
 
